@@ -1,2 +1,1 @@
-Portfolio
-# mikhailnaumovich.github.io
+Portfolio of Mikhail Naumovich, a digital 2D artist.
